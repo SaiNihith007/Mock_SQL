@@ -1,3 +1,5 @@
 # Mock_SQL
 
-Please submit the interview problems posted in slack channel here. The problems and statements are intentionally not shown here so that students are not able to see them in advance 
+1) Problem Name: Mock Interview SQL - Top Travellers (https://leetcode.com/problems/top-travellers/)
+
+2) Problem Name: Mock Interview SQL - Apples Oranges (https://leetcode.com/problems/apples-oranges/)
