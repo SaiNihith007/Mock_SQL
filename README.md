@@ -1,5 +1,5 @@
 # Mock_SQL
 
-1) Problem Name: Mock Interview SQL - Top Travellers (https://leetcode.com/problems/top-travellers/)
+1) Problem - Top Travellers (https://leetcode.com/problems/top-travellers/)
 
-2) Problem Name: Mock Interview SQL - Apples Oranges (https://leetcode.com/problems/apples-oranges/)
+2) Problem - Apples Oranges (https://leetcode.com/problems/apples-oranges/)
